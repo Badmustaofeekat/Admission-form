@@ -1,0 +1,11 @@
+@import "reset" ;
+
+
+body {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+    color: aqua;
+}
+.heading{
+    @import "reset"
+}

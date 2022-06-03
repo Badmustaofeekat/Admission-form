@@ -1,0 +1,22 @@
+$textcolorh1:navy;
+$textcolorh2:green;
+$fontfamilyp:Arial , sans-serif, Helvetica;
+
+
+
+.heading{
+ color : hotpink;
+font-family: $fontfamilyp
+}
+.heading1{ 
+    color: orangered
+}
+
+.div{
+    color: $textcolorh1;
+    font: $fontfamilyp;
+
+}
+.nav{
+    list-style-type:none;
+}

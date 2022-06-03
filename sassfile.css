@@ -1,0 +1,18 @@
+.heading {
+  color: hotpink;
+  font-family: Arial, sans-serif, Helvetica;
+}
+
+.heading1 {
+  color: orangered;
+}
+
+.div {
+  color: navy;
+  font: Arial, sans-serif, Helvetica;
+}
+
+.nav {
+  list-style-type: none;
+}
+/*# sourceMappingURL=sassfile.css.map */
